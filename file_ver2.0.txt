@@ -1,6 +1,1 @@
-file_ver1.0
-update_01
-update_08061
-update by web 
-update by web 0809
-update_0809
+file_ver2.0
